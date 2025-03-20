@@ -5,3 +5,4 @@ import mediapipe as mp
 import methods as m
 
 print("penis")
+print("cock")
