@@ -4,6 +4,6 @@ import time
 import mediapipe as mp
 import methods as m
 
-print("penis")
-print("cock")
-print("blablabla")
+print("hello")
+print("yo")
+print("test")
